@@ -38,10 +38,10 @@
   },
   "dependencies": {
     "@stdlib/math-base-special-sqrt": "^0.2.2",
-    "@stdlib/stats-strided-variancetk": "github:stdlib-js/stats-strided-variancetk#main",
-    "@stdlib/strided-base-stride2offset": "^0.1.0",
+    "@stdlib/stats-strided-variancetk": "^0.1.0",
+    "@stdlib/strided-base-stride2offset": "^0.1.1",
     "@stdlib/types": "^0.4.3",
-    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2"
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/array-base-to-accessor-array": "^0.2.2",
